@@ -27,3 +27,24 @@ I graduated from Florida Gulf Coast University in 2022. My major was Software En
 * Deans List 
 
 ****
+### **Skills**
+
+* HTML / CSS
+* Javascript 
+* Git, GitHub
+* Visual Studio Code
+* Adobe Photoshop, Sony Vegas Pro
+
+****
+
+### **Languages**
+
+* English      
+   + IELTS 8.0 (2022)
+   + TOEFL 100 (2019)
+* Russian     
+   + Native Speaker
+* Uzbek    
+   + Fluent
+
+****
