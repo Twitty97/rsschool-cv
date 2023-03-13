@@ -17,7 +17,7 @@ _Github_: [Twitty97](https://github.com/Twitty97)
 
 I am a young and enthusiastic web-developer looking for an opportunity to grow my skillset by completing RS-School Front-end development course. 
 
-I have spent some time thinking which stack / ecosystem will work for me best and eventually decided to chose frontend since I am a visual thinker and I think in visual components rather than abstract concepts. 
+I have spent some time thinking which stack / ecosystem will work for me best and eventually decided to choose frontend since I am a visual thinker and I think in visual components rather than abstract concepts. 
 
 ****
 ### **Education**
